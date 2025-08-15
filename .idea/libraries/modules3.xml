@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="modules3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA Community Edition 2025.1.3/plugins/yaml/lib/modules/intellij.yaml.backend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA Community Edition 2025.1.3/plugins/yaml/lib/modules/intellij.yaml.frontend.split.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,33 @@
+{
+  "bot_name": "SimpleForexBot",
+  "api": {
+    "broker": "OANDA",
+    "api_key": "YOUR_API_KEY_HERE",
+    "account_id": "YOUR_ACCOUNT_ID"
+  },
+  "trade_settings": {
+    "pairs": ["EUR/USD", "USD/JPY", "GBP/USD"],
+    "lot_size": 1000,
+    "max_open_trades": 3,
+    "trade_interval_minutes": 15
+  },
+  "strategy": {
+    "name": "Moving Average Crossover",
+    "short_ma_period": 5,
+    "long_ma_period": 20,
+    "entry_condition": "short_ma > long_ma",
+    "exit_condition": "short_ma < long_ma"
+  },
+  "risk_management": {
+    "stop_loss_pips": 20,
+    "take_profit_pips": 50,
+    "max_drawdown_percent": 10,
+    "risk_per_trade_percent": 2
+  },
+  "logging": {
+    "enabled": true,
+    "log_level": "info",
+    "log_to_file": true,
+    "file_path": "./logs/forex_bot.log"
+  }
+}

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA Community Edition 2025.1.3/plugins/java-coverage/lib/java-coverage.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA Community Edition 2025.1.3/plugins/java-coverage/lib/jacoco.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA Community Edition 2025.1.3/plugins/java-coverage/lib/java-coverage-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gragent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntelliJ IDEA Community Edition 2025.1.3/plugins/Groovy/lib/agent/gragent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
